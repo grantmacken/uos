@@ -1,4 +1,4 @@
-# Starting point
+# my silverblue variant based on ublue startingpoint
 
 > **Warning**
 > Startingpoint was recently rewritten, and this version is considered a "1.0" *semi-*stable release.
