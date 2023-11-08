@@ -1,4 +1,4 @@
-# my silverblue variant based on ublue startingpoint
+# uos is my silverblue variant based on the ublue startingpoint
 
 > **Warning**
 > Startingpoint was recently rewritten, and this version is considered a "1.0" *semi-*stable release.

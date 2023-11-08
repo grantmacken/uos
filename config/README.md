@@ -6,7 +6,7 @@ The main file of your is *the recipe file*. You can have multiple recipe files, 
 
 At the top of the recipe, there are four *mandatory* configuration options.
 
-`name:` is the name of the image that is used when rebasing to it. For example, the name "sapphire" would result in the final URL of the container being `ghcr.io/<yourusername>/sapphire`.
+`name:` is the name of the image that is used when rebasing to it. For example, the name "sapphire" would result in the final URL of the container being `ghcr.io/grantmacken/uos`.
 
 `description:` is a short description of your image that will be attached to your image's metadata.
 
